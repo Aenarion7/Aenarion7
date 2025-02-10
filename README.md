@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Aenarion7
-- 👀 I’m interested in Cyberpunk
-- 🌱 I’m currently learning Netrunning
-- 💞️ I’m looking to collaborate on Cyberware
-- 📫 How to reach me - Through Night City
+- 👋 Hi, I’m Grzegorz Niemiec.
+  
+- At my profile you can find tehnologies in which I'm interested in.
 
-<!---
-Aenarion7/Aenarion7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- For thouse technologies, you can find guides in form of Labs which can guide you step by step.
+
